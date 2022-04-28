@@ -1,5 +1,7 @@
-Flask
+Flask~=2.1.1
 Flask-Bootstrap
 Flask-Login
 Flask-SQLAlchemy
 Flask-WTF
+WTForms~=3.0.1
+PySide2~=5.15.2.1
