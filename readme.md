@@ -10,4 +10,4 @@
 #### 起動
 Server --- server.py
 
-GuiApp --- https://github.com/Wedjat98/ToDoListAPP/releases/tag/alpha
+GuiApp --- [DownLoad Here](https://github.com/Wedjat98/ToDoListAPP/releases/tag/alpha)
