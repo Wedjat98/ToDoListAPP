@@ -5,8 +5,8 @@ from wtforms.validators import DataRequired, Length
 
 
 class TodoListForm(FlaskForm):
-    title = StringField('标题', validators=[DataRequired(), Length(1, 64)])
-    status = RadioField('是否完成', validators=[DataRequired()], choices=[("1", '是'), ("0", '否')])
+    title = StringField('ToDo内容', validators=[DataRequired(), Length(1, 64)])
+    status = RadioField('是否完成', validators=[DataRequired()], choices=[("1", '已完成'), ("0", '未完成')])
     submit = SubmitField('提交')
 
 
