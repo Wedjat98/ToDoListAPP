@@ -8,6 +8,6 @@
 ### Flask　QT　SQLite　bootstrap　使用
 
 #### 起動
-Saver --- app.py
+Server --- server.py
 
-GuiApp --- qtweb.py
+GuiApp --- https://github.com/Wedjat98/ToDoListAPP/releases/tag/alpha
